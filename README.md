@@ -1,6 +1,6 @@
 # 🇸🇬 新加坡旅游攻略 - 智能语音播放
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://your-username.github.io/singapore-travel-guide/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://loseany9097.github.io/singapore-travel-guide/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/Language-Chinese%2FEnglish-red.svg)]()
 
@@ -28,7 +28,7 @@
 
 ## 🚀 在线体验
 
-**立即访问**: [https://your-username.github.io/singapore-travel-guide/](https://your-username.github.io/singapore-travel-guide/)
+**立即访问**: [https://loseany9097.github.io/singapore-travel-guide/](https://loseany9097.github.io/singapore-travel-guide/)
 
 ## 🎮 使用方法
 
@@ -76,7 +76,7 @@
 
 ### 克隆项目
 ```bash
-git clone https://github.com/your-username/singapore-travel-guide.git
+git clone https://github.com/LoseAny9097/singapore-travel-guide.git
 cd singapore-travel-guide
 ```
 
@@ -87,7 +87,7 @@ cd singapore-travel-guide
 1. Fork 本项目
 2. 在仓库设置中启用 GitHub Pages
 3. 选择 `main` 分支作为源
-4. 访问 `https://your-username.github.io/singapore-travel-guide/`
+4. 访问 `https://loseany9097.github.io/singapore-travel-guide/`
 
 ## 📋 内容包含
 
@@ -159,8 +159,8 @@ cd singapore-travel-guide
 如有问题或建议，请通过以下方式联系：
 
 - 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/singapore-travel-guide/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/singapore-travel-guide/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/LoseAny9097/singapore-travel-guide/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/LoseAny9097/singapore-travel-guide/discussions)
 
 ---
 
